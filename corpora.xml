@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<authors>
+    <author name="Ricardo Fort" image="/static/images/fort.jpg" id="fort" corpus-type="quotes">
+        <text>Maiameeee</text>
+        <text>¿Quien te conoce, papa?</text>
+        <text>Basta Chicos!</text>
+        <text>¡Saca la mano de ahí, carajo!</text>
+        <text>Yo no manejo el rating, yo manejo un Rolls Royce</text>
+        <text>¡Denunciado lince!</text>
+        <text>Ustedes se rien de mi porque soy diferente, pero yo me rio porque todos ustedes son iguales.</text>
+        <text>No me ames a mi flaco, ama a tu novia. Yo solo soy Ricardo Fort.</text>
+        <text>El éxito es facil de obtener. Lo dificil es merecerlo.</text>
+        <text>La mayor sabiduria que existe es conocerse a uno mismo.</text>
+    </author>
+
+    <author name="Mirtha Legrand" image="/static/images/mirtha.jpg" id="legrand" corpus-type="quotes">
+        <text>¡Carajo, mierda!</text>
+        <text>Así no.</text>
+        <text>Como te ven te tratan y si te ven mal ¡Te maltratan!</text>
+        <text>Este programa trae suerte.</text>
+        <text>¿Lo digo o no lo digo?</text>
+        <text>¡Estoy regalada!</text>
+        <text>¡No! ¡no! no me gusta.</text>
+    </author>
+
+</authors>
