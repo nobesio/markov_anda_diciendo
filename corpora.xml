@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <authors>
-    <author name="Ricardo Fort" image="/static/images/fort.jpg" id="fort" corpus-type="quotes">
+    <author name="Ricardo Fort" image="/static/images/fort.jpg" id="fort" ngram="1">
         <text>Maiameeee</text>
         <text>¿Quien te conoce, papa?</text>
-        <text>Basta Chicos!</text>
+        <text>¡Basta Chicos!</text>
         <text>¡Saca la mano de ahí, carajo!</text>
         <text>Yo no manejo el rating, yo manejo un Rolls Royce</text>
         <text>¡Denunciado lince!</text>
         <text>Ustedes se rien de mi porque soy diferente, pero yo me rio porque todos ustedes son iguales.</text>
-        <text>No me ames a mi flaco, ama a tu novia. Yo solo soy Ricardo Fort.</text>
+        <text>No me ames a mi, flaco. Ama a tu novia. Yo solo soy Ricardo Fort.</text>
         <text>El éxito es facil de obtener. Lo dificil es merecerlo.</text>
         <text>La mayor sabiduria que existe es conocerse a uno mismo.</text>
     </author>
 
-    <author name="Mirtha Legrand" image="/static/images/mirtha.jpg" id="legrand" corpus-type="quotes">
+    <author name="Mirtha Legrand" image="/static/images/mirtha.jpg" id="legrand" ngram="1">
         <text>¡Carajo, mierda!</text>
         <text>Así no.</text>
         <text>Como te ven te tratan y si te ven mal ¡Te maltratan!</text>
@@ -21,6 +21,70 @@
         <text>¿Lo digo o no lo digo?</text>
         <text>¡Estoy regalada!</text>
         <text>¡No! ¡no! no me gusta.</text>
+    </author>
+
+    <author name="Cristina Kirchner" image="/static/images/cristina.jpg" id="cristina" ngram="2">
+        <text>No fue magia.</text>
+        <text>No habrá extorsión, insulto o amenaza que me aparten del camino.</text>
+        <text>Los dolores que quedan son libertades que faltan, ayer nos dieron un dolor pero nos vamos a curar porque tenemos buenos farmacéuticos, inyecciones y remedios.</text>
+        <text>Tengo una determinada posición económica que ha sido producto de mi exitosa profesión, y ahora soy una exitosa presidente.</text>
+        <text>Gran Bretaña sueña con que los argentinos nos equivoquemos como en el 82. Argentina recuperará Malvinas por el camino de la Paz.</text>
+        <text>Nuestro país no es un partido de fútbol, es un país soberano que no sera sometido a ninguna amenaza.</text>
+        <text>Siento que he ganado en la política, como militante de toda la vida, lo que nunca soñé. pero al mismo tiempo también en mi vida eh perdido lo que nunca pensé que iba a perder, y si tuviera que cambiar todo lo que gane por todo lo que perdí, la verdad que no lo dudaría. por eso les pido a todos, con mucha humildad enserio les digo, no valió la pena tanta pelea. Tenemos que entre todos solucionarle la vida a los argentinos, no crearles problemas; solucionarselos que para eso nos votan a todos, cada uno donde les corresponde. LES PIDO QUE ME AYUDEN, NADA MAS QUE ESO.</text>
+        <text>Los argentinos tenemos historia y memoria y sabemos que las políticas económicas se deciden en la Casa Rosada y en el Congreso.</text>
+        <text>Si no les gusta la reforma judicial, ¿que proponen a cambio? porque si la justicia esta bien así, ¿que son todas esas marchas pidiendo justicia?</text>
+        <text>La diabetes es una enfermedad de gente de alto poder adquisitivo, porque son sedentarios, porque comen mucho. En fin, con lo cual obvio, es para todos, no solamente para los que tienen plata, pero digamos que la diabetes es una enfermedad de gente de determinado poder adquisitivo.</text>
+        <text>Quiero plantear la independencia del Poder Ejecutivo de los grandes poderes concentrados de afuera y de adentro.</text>
+        <text>Estamos en política para que la gente viva mejor, para que tenga educación, vivienda, salud, más justicia, más seguridad, todos los argentinos.</text>
+        <text>Entonces les pido solamente un instante, un segundo, que piensen en él, aún los que no lo quisieron, porque realmente hizo mucho para que hoy podamos tener esta Argentina y para que esta Argentina siga creciendo con la fuerza que todos nos merecemos.</text>
+        <text>Aquí pudimos demostrar, luego de cinco años, que aquellas teorías extrañas, que algunos venían a decirnos, que no debíamos producir, que mejor ser un país de servicio, acá están todos ustedes y millones de argentinos, que hemos demostrado que podemos producir, que podemos trabajar, crecer y progresar.</text>
+        <text>Sabemos que es necesario federalizar la ejecución de las obras, ya que esto permite también la generación de trabajo y de formación de empresas en las propias provincias, lo que ayuda a una redistribución del ingreso, porque genera mayor trabajo en los municipios, en las provincias.</text>
+        <text>Las discriminaciones se dan hasta muchas veces hacia las mujeres que tal vez ocupamos lugares en los sistemas de poder y también hay un comportamiento diferente hacia esa mujer que forma parte de un sistema de poder que cuando son los hombres los que forman parte de ese sistema de poder.</text>
+        <text>Me acuerdo cuando quisieron montar una suerte de escandalete como que había una suerte de espionaje de la Gendarmería, Proyecto X, inexistente, se armó un lío. Ahora resulta que se enteran que nos están espiando desde el Norte y nadie dice nada. ¡Claro, es mucho más cool la CIA que un gendarme!</text>
+        <text>Porque un país no se hace solamente con un presidente o una presidenta sino con todos los argentinos, trabajando, esforzándose, tirando para el mismo lado, en la medida que todos puedan darse cuenta de que si se favorece la Argentina, si la Argentina sigue creciendo, nos vamos a favorecer todos.</text>
+        <text>Yo no sé si Obama habrá leído a Perón.</text>
+        <text>Sepan que voy a seguir representando los intereses de todos los argentinos. Lo pienso ejercer con todos los derechos que me da la Constitución y el voto popular.</text>
+        <text>Muchas veces se puede ser minoría legislativa pero se puede volver a ser mayoría política en la sociedad.</text>
+        <text>Lo saben las mujeres, esas jefas de hogar que se quedaron al frente de la casa cuando el compañero no tenía trabajo, los hombres aguantan menos la indignidad de la falta de trabajo porque están casi por una cuestión cultural acostumbrados a parar la olla, es signo también de hombría y cuando lo pierden se cae todo y se desune la familia.</text>
+        <text>Quiero en nombre de todos los argentinos felicitar a las Madres y las Abuelas de Plaza de Mayo, luchadoras inclaudicables, como ejemplo de las luchas cívicas. Más de 30 años pidiendo y reclamando, nunca un acto de violencia, nunca una amenaza, nunca un ejercicio de intolerancia hacia el otro, y eso que no les habían cobrado un impuesto, no les habían pedido dinero, les habían quitado a los hijos. Y sin embargo, durante 30 años la dignidad del reclamo cívico y democrático es ejemplo incontrastable de la Argentina que tenemos todavía que construir, más tolerante, más democrática y más respetuosa.</text>
+        <text>El campo debe tener en cuenta que sus ingresos por exportaciones es en "euros y dólares" y que sus costos son "en pesos argentinos", para luego remarcar que a pesar de esa diferencia el "empleo rural es el peor pagado de toda la escala salarial.</text>
+        <text>Recuerdo esa Argentina donde desesperados cortaban calles por que les faltaba trabajo o tal vez, en 2001, porque se habían quedado con sus depósitos. Eran los piquetes de la miseria.</text>
+        <text>Yo sé que este compromiso con los más vulnerables, que este compromiso con los más pobres, que este compromiso con los intereses del país, molesta a algunos sectores del privilegio, pero no me interesa, no he llegado a presidenta para caerle simpática a los poderosos, he llegado a presidenta para reparar, para restituir, para devolver, para volver a hacer justicia, que es lo que este bendito país necesita desde hace muchas décadas.</text>
+        <text>Osama bin Laden fue entrenado, junto a los talibanes, para enfrentar a Rusia, durante la Guerra Fría, a Afganistán [...]. Pero realmente la pregunta es ahora también surgió la famosa Primavera Árabe, en la cual todos eran aparentemente luchadores de la libertad, Freedom Fighters y donde a partir de la Primavera Árabe iban a surgir nuevas democracias y resulta a ser que muchos de los Freedom Fighters de la Primavera Árabe resultaron ser muchos fundamentalistas, que hoy, recibieron entrenamiento militar en esos momentos y hoy están combatiendo en el ISIS y reclutando jóvenes.</text>
+        <text>Porque no solamente son terroristas los que andan poniendo bombas, también son terroristas económicos los que desestabilizan la economía de un país y provocan pobreza, hambre y miseria</text>
+    </author>
+
+    <author name="Mauricio Macri" image="/static/images/macri.jpg" id="macri" ngram="2">
+        <text>En el fondo, a todas las mujeres les gustan los piropos. Aquellas que dicen que no, que me ofende, no les creo nada. No hay nada mas lindo que te digan que lindos ojos, aunque este acompañado de una grosería. que les digan qué lindo culo tenés, esta todo bien.</text>
+        <text>Nosotros vamos a gobernar el año que viene porque cada vez más argentinos sienten desde su corazón que se necesita un cambio de verdad.</text>
+        <text>Queremos que los argentinos se levanten cada día con la alegría de saber que tienen un gran futuro por delante.</text>
+        <text>Nadie puede negar el daño que hace la inflación al salario. El paro es consecuencia de la inflación. Si pensamos que el problema es el paro nos estamos equivocando.</text>
+        <text>Si parecen los mismos, visten como los mismos y están rodeados de los mismos entonces son los mismos.</text>
+        <text>Va a estar bueno Buenos Aires.</text>
+        <text>Si no te aburre una sesión en el Congreso, sos un anormal.</text>
+        <text>El siglo XX fue de los derechos humanos, el siglo XXI debe ser de las obligaciones ciudadanas.</text>
+        <text>Al ciruja me lo llevo preso. No podés alterar el orden en algo que es un delito, porque es tan delito robar la basura como robarle a un señor en la esquina.</text>
+        <text>Hay que construir una sociedad que funcione para todos.</text>
+        <text>Estoy recorriendo el país todos los fines de semana. Me piden que no afloje ante las agresiones.</text>
+        <text>Hoy me mueve sentir que ayudo a que las cosas funcionen mejor.</text>
+        <text>No vine a la política a hacerme rico ni famoso.</text>
+        <text>El poder es armar equipos, hacer planes, la gente disfruta de los resultados. Es genial la capacidad de transformar.</text>
+        <text>Todos tenemos que entender que si queremos una mejor sociedad necesitamos una mejor política. Con gente experimentada y gente nueva.</text>
+        <text>Me siento muy preparado para ser presidente.</text>
+        <text>Tenemos al policía más condecorado de los últimos años. El Fino es un excelente policía.</text>
+        <text>Yo no voy a hacer publicidad oficial.</text>
+        <text>Vamos a construir 40km de subte.</text>
+        <text>Las Malvinas serían un déficit adicional para el país.</text>
+    </author>
+
+    <author name="Susana Gimenez" image="/static/images/susana.jpg" id="susana" ngram="1">
+        <text>¿¿¡¡Vivo!!??</text>
+        <text>¡Me olvide un hombre en el horno!</text>
+        <text>¡Me lo como!</text>
+        <text>¡Correcto!</text>
+        <text>¡Mi amor!</text>
+        <text>¡Qué flaquito!</text>
+        <text>Todo el que mata tiene que morir.</text>
     </author>
 
 </authors>
